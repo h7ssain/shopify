@@ -1,14 +1,14 @@
-# ITCS 330 : Project - Online Shopping System.
+# ITCS 330 : Project - Online Shopping System
 
-### BASIC REQUIREMENTS:
+### BASIC REQUIREMENTS
 
 - You should form groups of 2 to 4 students each.
 
-### PROJECT MAIN GOAL:
+### PROJECT MAIN GOAL
 
 - Use current web and Internet development tools and techniques to create a small web- application.
 
-### PROJECT THEME:
+### PROJECT THEME
 
 - The main services (functionalities) of the system might include but not limited to the following:
 
@@ -55,7 +55,7 @@
 
 - ###### According to the above required services you must create a database that will help you do implement all the above functions. **You can add any extra functions to make your system look better**.
 
-- ###### Your website must be loaded to free host.
+- ###### Your website must be loaded to free host
 
 - ###### Date of submission is last week of study.
 
