@@ -16,6 +16,7 @@ class Database
             PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
             PDO::ATTR_EMULATE_PREPARES   => false,
         ];
+
         try {
             return new PDO($dsn, self::$username, self::$password, $options);
         } catch (PDOException $e) {
@@ -43,6 +44,7 @@ class Database
             self::connect()->prepare($sql)->execute($kwargs);
             return true;
         } catch (PDOException $e) {
+            throw new PDOException($e->getMessage(), (int)$e->getCode());
         }
     }
 }

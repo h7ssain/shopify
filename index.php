@@ -17,7 +17,7 @@ include "php/database/database.php";
     <link href='style.css' rel="stylesheet">
     <link href='src\assets\icon.png' rel="icon">
 
-    <title>Shopify</title>
+    <title>Hussain</title>
 </head>
 
 <body>
@@ -25,7 +25,7 @@ include "php/database/database.php";
     <br>
 
     <div class="container">
-        <h1 class="text-center text-red">Shopify</h1>
+        <h1 class="text-center text-red">Hussain</h1>
     </div>
 
 </body>
