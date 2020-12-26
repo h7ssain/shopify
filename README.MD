@@ -53,7 +53,7 @@
 
 ### The required database:
 
-- ###### According to the above required services you must create a database that will help you do implement all the above functions. **You can add any extra functions to make your system look better**.
+- ###### According to the above required services you must create a database that will help you do implement all the above functions. **You can add any extra functions to make your system look better.
 
 - ###### Your website must be loaded to free host
 
