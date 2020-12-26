@@ -18,8 +18,8 @@ class Database
         ];
         try {
             return new PDO($dsn, self::$username, self::$password, $options);
-        } catch (\PDOException $e) {
-            throw new \PDOException($e->getMessage(), (int)$e->getCode());
+        } catch (PDOException $e) {
+            throw new PDOException($e->getMessage(), (int)$e->getCode());
         }
     }
 
